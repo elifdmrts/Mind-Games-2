@@ -1,0 +1,21 @@
+h1{
+    color: darkmagenta;
+    font-size: 35px;
+    
+}
+h2{
+    color: hsl(210, 34%, 52%);
+    font-size: 25px;
+}
+p{
+    color: rgb(39, 39, 124);
+    font-size: 15px;
+}
+
+li{
+    color: hsl(314, 52%, 49%);
+    font-size: 20px;
+}
+body{
+    background-color:#E9ECEF;
+}
